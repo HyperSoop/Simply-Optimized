@@ -1,0 +1,13 @@
+name = "Fastload"
+filename = "Fastload-1.1.4+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kCpssoSb/versions/1.19.fabric.1.1.4/Fastload-1.1.4%2B1.19.jar"
+hash-format = "sha1"
+hash = "81953f44c055c373f28a7f5a59a29151cbdd230f"
+
+[update]
+[update.modrinth]
+mod-id = "kCpssoSb"
+version = "QNff3l3l"
