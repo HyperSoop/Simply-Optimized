@@ -8,4 +8,4 @@ I can confidently claim this is the best optimization modpack in terms of perfor
 
 *View more information about the modpack on the Modrinth page* [*>>*](https://modrinth.com/modpack/sop)
 
-*Website by Deving aka ultrastorm aka intergrav*
+*Website by Devin aka ultrastorm aka intergrav*
