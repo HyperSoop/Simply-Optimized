@@ -13,4 +13,4 @@ One of its purposes may be to be recommended to people new to Fabric who just wa
 
 ---
 
-See [Modrinth](https://modrinth.com/modpack/sop) or [the wiki (WIP)](https://github.com/HyperSoop/Simply-Optimized/wiki) for the detailed description.
+See [Modrinth](https://modrinth.com/modpack/sop) or [the wiki (WIP)](https://github.com/HyperSoop/Simply-Optimized/wiki) for the detailed description and downloads.
