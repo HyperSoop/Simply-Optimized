@@ -1,6 +1,8 @@
 body {
     background-color: rgb(10, 10, 20);
     background-image: url("https://raw.githubusercontent.com/HyperSoop/Simply-Optimized/meta/docs/assets/so-bg.webp");
+    background-size: cover;
+    background-attachment: fixed;
     padding: 50px;
     font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #ffffff;
